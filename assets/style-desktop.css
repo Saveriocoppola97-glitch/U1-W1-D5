@@ -47,6 +47,7 @@ button {
   margin-top: 1.5em;
   height: 3em;
   width: 9em;
+  cursor: pointer;
 }
 main article > div:nth-child(2) {
   font-size: 1em;
@@ -97,6 +98,8 @@ q {
 #mario-rossi {
   color: white;
   font-weight: bold;
+  cursor: pointer;
+  width: 6%;
 }
 span {
   display: block;
@@ -112,6 +115,7 @@ span {
   color: #24a1c8;
   font-weight: bold;
 }
+
 .foto-special {
   margin-bottom: 0.5em;
   display: inline-block;
@@ -136,6 +140,8 @@ h3 {
 address {
   color: white;
   font-size: 0.8em;
+  padding-left: 41em;
+  text-align: left;
 }
 a {
   display: block;
@@ -151,8 +157,8 @@ footer p {
   display: inline;
 }
 hr {
-  width: 11em;
-  margin: 1em auto;
+  width: 12em;
+  margin: 1em 33em;
 }
 #section-2 {
   margin-top: 1em;
