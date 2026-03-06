@@ -1,0 +1,121 @@
+/* HEADER*/
+body {
+  width: 45vh;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  color: #393d41;
+  text-align: center;
+}
+header div {
+  background-color: black;
+  padding: 1.5em;
+  text-align: center;
+}
+header div img {
+  height: 2.7em;
+}
+/* MAIN */
+main {
+  width: 45vh;
+}
+main article > div:first-child {
+  background-image: url(./banner.jpg);
+  background-size: cover;
+  background-position: center top;
+  padding: 3em;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  color: #28a1c9;
+  text-align: center;
+  line-height: 1;
+}
+main div img {
+  width: 100%;
+}
+article div p {
+  padding-top: 1em;
+}
+button {
+  background-color: #f04c2f;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1em;
+  color: white;
+  margin-top: 1.5em;
+  height: 3em;
+  width: 9em;
+}
+main article > div:nth-child(2) {
+  font-size: 1em;
+  color: #24a1c8;
+  font-weight: bold;
+  margin: 2em;
+}
+div > p:nth-child(2) {
+  color: black;
+  font-weight: 400;
+}
+.h2 {
+  color: #24a1c8;
+  font-weight: bold;
+}
+main article div:nth-child(3) {
+  margin: 2em;
+}
+#notebook {
+  border-radius: 50%;
+  max-width: 90%;
+  margin: 0 auto;
+}
+main article div:nth-child(5) {
+  margin: 2em;
+}
+main article div:nth-child(6) {
+  margin: 2em;
+}
+main article div:nth-child(7) {
+  background-color: red;
+  padding-bottom: 1em;
+}
+.h2-special {
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  padding: 1em 1em 0.5em 1em;
+}
+q {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: white;
+}
+#mario-rossi {
+  color: white;
+  font-weight: bold;
+}
+span {
+  display: block;
+  font-size: 0.7em;
+}
+.foto {
+  margin: 1.8em;
+  border: 1px solid #00000017;
+  margin-top: 2.5em;
+}
+#h2 {
+  color: #24a1c8;
+  font-weight: bold;
+}
+.foto-special {
+  margin-bottom: 0.5em;
+}
+.p {
+  margin-bottom: 1.8em;
+  padding: 0.5em;
+}
