@@ -1,0 +1,159 @@
+/* HEADER*/
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  color: #393d41;
+  text-align: center;
+}
+header div {
+  background-color: black;
+  padding: 1em;
+  text-align: left;
+}
+header div img {
+  height: 2.7em;
+  padding-left: 1em;
+}
+/* MAIN */
+main article > div:first-child {
+  background-image: url(./banner.jpg);
+  background-size: cover;
+  background-position: center top;
+  padding: 9em;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  color: #28a1c9;
+  text-align: center;
+  line-height: 1;
+}
+article div p {
+  padding-top: 1em;
+  padding-left: 10em;
+  padding-right: 10em;
+}
+button {
+  background-color: #f04c2f;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1em;
+  color: white;
+  margin-top: 1.5em;
+  height: 3em;
+  width: 9em;
+}
+main article > div:nth-child(2) {
+  font-size: 1em;
+  color: #24a1c8;
+  font-weight: bold;
+  margin: 2em;
+}
+div > p:nth-child(2) {
+  color: black;
+  font-weight: 400;
+}
+.h2 {
+  color: #24a1c8;
+  font-weight: bold;
+}
+main article div:nth-child(3) {
+  margin: 2em;
+}
+#notebook-div {
+  display: inline-block;
+}
+#notebook {
+  border-radius: 50%;
+  max-width: 90%;
+  margin: 0 auto;
+}
+main article div:nth-child(5) {
+  margin: 2em;
+}
+main article div:nth-child(6) {
+  margin: 2em;
+}
+main article div:nth-child(7) {
+  background-color: red;
+  padding-bottom: 0.5em;
+}
+.h2-special {
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  padding: 1em 1em 0.5em 1em;
+}
+q {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: white;
+}
+#mario-rossi {
+  color: white;
+  font-weight: bold;
+}
+span {
+  display: block;
+  font-size: 0.7em;
+}
+.foto {
+  border: 1px solid #00000017;
+  display: inline-block;
+  width: 300px;
+  margin: 2em 0.7em;
+}
+#h2 {
+  color: #24a1c8;
+  font-weight: bold;
+}
+.foto-special {
+  margin-bottom: 0.5em;
+  display: inline-block;
+  height: 220.1px;
+  width: 300px;
+}
+.p {
+  margin-bottom: 1.8em;
+  padding: 0.5em;
+  font-size: 0.7em;
+}
+#final-footer {
+  background-color: #28a1c9;
+  padding: 1.5em;
+}
+h3 {
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+address {
+  color: white;
+  font-size: 0.8em;
+}
+a {
+  display: block;
+  color: white;
+  font-size: 1em;
+}
+footer p {
+  color: white;
+  font-size: 0.7em;
+  margin: 2em auto;
+}
+#special-a {
+  display: inline;
+}
+hr {
+  width: 11em;
+  margin: 1em auto;
+}
+#section-2 {
+  margin-top: 1em;
+}
